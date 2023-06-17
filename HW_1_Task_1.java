@@ -21,7 +21,7 @@ public class HW_1_Task_1 {
      * @apiNote Изменяет порядок слов на противоположный.
      */
 
-    public String reverseWords(String s) {
+    public static String reverseWords(String s) {
         int i = 0, j = i;
         String ans = "";
         while (i < s.length()) {
