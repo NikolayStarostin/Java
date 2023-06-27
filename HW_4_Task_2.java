@@ -8,7 +8,7 @@
 
 public class HW_4_Task_2 {
     public static void main(String[] args) {
-        String s = "()[]{}";
+        String s = "()";
         System.out.println(isValid(s));
 
     }
